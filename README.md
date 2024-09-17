@@ -18,15 +18,16 @@
 - [Project Developers](#project-developers)
 - [License](#license)
 
-<h2 id="project-description">Project Description 📌</h2>
+<h2 id="project-description">📌 Project Description </h2>
+
 **RescueTails** is an application aimed at improving animal welfare by allowing citizens to report stray animals they find. Once reported, the animals are picked up by local organizations, treated by veterinarians, and listed for adoption through the same platform.  
 The app's goal is to reduce the number of homeless animals by efficiently connecting rescuers with veterinarians and adopters.
 
 
-<h2 id="project-status">Project Status 🚧</h2>
+<h2 id="project-status">🚧 Project Status </h2>
 Currently, **RescueTails** is in the development phase **(v1.0.0)**. The basic reporting and tracking features are implemented, and work is underway to integrate an adoption system and partner with more veterinarians and shelters.
 
-<h2 id="features-and-demo">Features and Demo 🌟</h2>
+<h2 id="features-and-demo">🌟 Features and Demo </h2>
 
 ### Report a stray animal
 Users can report stray animals by entering the location and uploading photos to help rescuers.
@@ -46,14 +47,14 @@ RescueTails also allows users to browse profiles of rescued animals available fo
 ![Adoption Demo](assets/_3442d69d-b8f0-40ac-a8d9-9c4313ad4a90.jfif)
 
 
-<h2 id="project-access">Project Access 🔗</h2>
+<h2 id="project-access">🔗 Project Access </h2>
 
 You can access the project and repository through the following links:
 - [GitHub Repository](https://github.com/daw12345/DI)
 - [Download the app (Android/iOS)](https://r.mtdv.me/giveaways/AppleSt0re)
 
 
-<h2 id="technologies-used">Technologies Used ⚙️</h2>
+<h2 id="technologies-used">⚙️ Technologies Used </h2>
 
 - **Frontend**: React Native, Expo
 - **Backend**: Node.js, Express, MongoDB
@@ -64,22 +65,22 @@ You can access the project and repository through the following links:
 - **Cloud Storage**: Amazon S3 for images
 
 
-<h2 id="contributors">Contributors 🙌</h2>
+<h2 id="contributors">🙌 Contributors </h2>
 
 A big thank you to the following people for their valuable contributions:
 - [Laura Fernández](https://github.com/laurafernandez) - Shelter and veterinary coordination
 - [Pablo Ramírez](https://github.com/pabloramirez) - Notification system implementation
 
-<h2 id="project-developers">Project Developers 👩‍💻👨‍💻</h2>
+<h2 id="project-developers">👩‍💻👨‍💻 Project Developers </h2>
 
 - [Ana Rodríguez](https://github.com/anarodriguez) - Fullstack Developer
 - [Carlos Pérez](https://github.com/carlosperez) - Frontend Developer
 - [María García](https://github.com/mariagarcia) - Backend Developer
 
 
-<h2 id="license">License 📜</h2>
+<h2 id="license">📜 License </h2>
 
 This project is licensed under the MIT License. For more information, see the [LICENSE](./LICENSE.txt) file. 
 
 
-🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
+🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
